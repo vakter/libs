@@ -1,4 +1,4 @@
-module dbhandler
+module github.com/vakter/libs/dbhandler
 
 go 1.24.4
 
