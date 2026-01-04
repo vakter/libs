@@ -6,8 +6,8 @@ import (
 
     "github.com/go-pg/pg/v10"
     "github.com/golang-migrate/migrate/v4"
-    "github.com/golang-migrate/migrate/v4/database/pgx"
-    "github.com/golang-migrate/migrate/v4/source/file"
+    //"github.com/golang-migrate/migrate/v4/database/pgx"
+    //"github.com/golang-migrate/migrate/v4/source/file"
 )
 
 // DBHandler handles the PostgreSQL database connection
