@@ -6,7 +6,8 @@ import (
 
     "github.com/go-pg/pg/v10"
     "github.com/golang-migrate/migrate/v4"
-    //"github.com/golang-migrate/migrate/v4/database/pgx"
+    migratepg "github.com/golang-migrate/migrate/v4/database/pg"
+//"github.com/golang-migrate/migrate/v4/database/pgx"
     //"github.com/golang-migrate/migrate/v4/source/file"
 )
 
